@@ -11,6 +11,8 @@
     "format": "prettier --write --ignore-path .gitignore \"./**/*.{js,jsx,ts,tsx,json,css}\""
   },
   "dependencies": {
+    "@clerk/clerk-react": "^4.30.4",
+    "@clerk/nextjs": "^4.29.6",
     "@fontsource/inter": "^5.0.15",
     "@hocuspocus/provider": "^2.9.0",
     "@radix-ui/react-dropdown-menu": "^2.0.5",
@@ -59,6 +61,7 @@
     "autoprefixer": "10.4.14",
     "cal-sans": "^1.0.1",
     "clsx": "^2.0.0",
+    "convex": "1.8.0",
     "eslint": "8.45.0",
     "eslint-config-next": "^14.1.0",
     "iframe-resizer": "^4.3.9",
@@ -67,6 +70,7 @@
     "lucide-react": "^0.266.0",
     "nanoid": "^4.0.2",
     "next": "^14.1.0",
+    "next-themes": "^0.2.1",
     "postcss": "8.4.27",
     "react": "18.2.0",
     "react-colorful": "5.6.1",
